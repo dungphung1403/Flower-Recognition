@@ -135,7 +135,7 @@ After training:
 streamlit run app.py
 
 
-Then open the URL displayed in the terminal (e.g., http://localhost:5000).
+Then open the URL displayed in the terminal (http://localhost:5000).
 
 📌 Notes
 

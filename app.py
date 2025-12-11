@@ -1,6 +1,5 @@
 import os
 import keras
-from keras.models import load_model
 import tensorflow as tf
 import streamlit as st
 import pickle
